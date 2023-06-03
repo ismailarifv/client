@@ -1,0 +1,8 @@
+.detailPage > a{
+    text-decoration:none ;
+    color: black;
+    
+}
+.detailPage{
+    height: 625px;
+}
